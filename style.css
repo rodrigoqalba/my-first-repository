@@ -1,0 +1,17 @@
+body {
+    background: rgb(191, 191, 212);
+    margin-top: 8px;
+  }
+
+title {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: aqua;
+    display: block;
+    font-weight: bold;
+    margin-top: 0px;
+    font-size: 45px;
+}
